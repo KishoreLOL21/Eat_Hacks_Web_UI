@@ -30,14 +30,6 @@ Eat Hacks is a web-based food delivery platform designed as part of an internshi
    ```
 3. Open `index.html` in a web browser to explore the UI.
 
-## Contributing
-
-Contributions are welcome! If you would like to enhance the project, feel free to fork the repository, make modifications, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any inquiries, reach out to the repository owner: [KishoreLOL21](https://github.com/KishoreLOL21).
